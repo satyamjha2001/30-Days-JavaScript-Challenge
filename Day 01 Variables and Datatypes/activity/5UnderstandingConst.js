@@ -1,3 +1,6 @@
+//Task 6
+
+
 const c = 1;
 
 // console.log(c);
